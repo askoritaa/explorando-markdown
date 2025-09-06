@@ -1,39 +1,39 @@
-#Titulo
+# Titulo
 
-##Descricao
+## Descricao
 o que faz o app
 com o que foi construido
 
-##Instrução de instalação
+## Instrução de instalação
 
-###Pré requisitos
+### Pré requisitos
 
-##Node 12
-##Git 2.4
+## Node 12
+## Git 2.4
 
-###Etapas
+### Etapas
 ```bash
 npm install
 ```
 
-##Instrução de uso
+## Instrução de uso
 1. Abra locashost:3000
 2. Faça login
 3. Use chatbot
 
-##Licença
+## Licença
 
-###Permissão pra uso comercial
+### Permissão pra uso comercial
 
-###Olhar se inspirar
+### Olhar se inspirar
 
-###Educacional e nao comercial
+### Educacional e nao comercial
 
 
-##Contribuição
+## Contribuição
 
-##Gitflow
+## Gitflow
 quais padroes os devs devem seguir para contribuir
 
-##Contribuidores 
+## Contribuidores 
 reconhecimento
